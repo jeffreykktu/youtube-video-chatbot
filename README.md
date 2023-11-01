@@ -2,6 +2,9 @@
 
 A chatbot that allows users to ask questions based on the content of a YouTube video.
 Provide a YouTube URL, the video is transcribed, and users can pose questions to the chatbot to receive answers derived from the video content.
+![image](https://github.com/jeffreykktu/youtube-video-chatbot/assets/42402011/1c9e35b8-6407-4af9-9ab8-4bec02647c78)
+![image](https://github.com/jeffreykktu/youtube-video-chatbot/assets/42402011/38af4ba3-1f4b-44ff-a9f4-a03fe68eec0f)
+
 
 ### Installation
 1. Clone the Repository:
@@ -17,7 +20,6 @@ pip install -r requirements.txt
 Create a .env file in the root directory and set up your OpenAI API key:
 ```
 OPENAI_API_KEY=your_openai_key
-
 ```
 
 ### Usage
