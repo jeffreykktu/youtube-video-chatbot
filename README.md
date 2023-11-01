@@ -16,9 +16,9 @@ cd [repository-directory]
 pip install -r requirements.txt
 ```
 3. Setup Environment Variables:
-Create a .env file in the root directory and set up your OpenAI API key:
+Set up your OpenAI API key and place it in `.env` file:
 ```
-OPENAI_API_KEY=your_openai_key
+OPENAI_API_KEY='<your_openai_key>'
 ```
 
 ### Usage
