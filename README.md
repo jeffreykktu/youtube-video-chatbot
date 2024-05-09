@@ -1,4 +1,4 @@
-# Youtube Video Chatbot 
+# Youtube Video Chatbot (LangChain)
 
 A chatbot that allows users to ask questions based on the content of a YouTube video.
 Provide a YouTube URL, the video is transcribed, and users can pose questions to the chatbot to receive answers derived from the video content.
